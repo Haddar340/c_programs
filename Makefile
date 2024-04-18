@@ -1,6 +1,6 @@
 cc=gcc
 
-all : ex3 ex4 ex5 ex6 ex7 ex8 ex9 ex10 ex11 ex12
+all :
 
 ex12: ex12.c
 	$(cc) -o ex12 ex12.c
@@ -46,3 +46,6 @@ ex16: ex16.c
 
 ex17: ex17.c
 	$(cc) -o ex17 ex17.c
+
+ex18: ex18.c
+	$(cc) -o ex18 ex18.c

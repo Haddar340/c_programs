@@ -10,7 +10,7 @@ int main()
     switch (month_number)
     {
     case 1:
-        printf("Jun have 31 days");
+        printf("Janv have 31 days");
         break;
     case 2:
         printf("Fev have 28 days");
