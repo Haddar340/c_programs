@@ -13,5 +13,5 @@ int main() {
 	printf("%f degrees in Fahrenheit.\n", temp_f);
 	fflush(stdout);
 
-	return(0);
+	return 0;
 }
